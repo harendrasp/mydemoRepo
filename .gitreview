@@ -1,4 +1,4 @@
 [gerrit]
-host=https://github.com
+host=git@github.com:
 project=harendrasp/mydemoRepo.git
 defaultbranch=master
