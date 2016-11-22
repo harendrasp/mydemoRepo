@@ -1,0 +1,4 @@
+[gerrit]
+host=https://github.com
+project=harendrasp/mydemoRepo.git
+defaultbranch=master
